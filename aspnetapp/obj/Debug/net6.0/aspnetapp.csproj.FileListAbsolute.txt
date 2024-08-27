@@ -1,0 +1,7 @@
+C:\Testing\GitHub\dotnet-docker\samples\aspnetapp\aspnetapp\obj\Debug\net6.0\aspnetapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Testing\GitHub\dotnet-docker\samples\aspnetapp\aspnetapp\obj\Debug\net6.0\aspnetapp.AssemblyInfoInputs.cache
+C:\Testing\GitHub\dotnet-docker\samples\aspnetapp\aspnetapp\obj\Debug\net6.0\aspnetapp.AssemblyInfo.cs
+C:\Testing\GitHub\dotnet-docker\samples\aspnetapp\aspnetapp\obj\Debug\net6.0\aspnetapp.csproj.CoreCompileInputs.cache
+C:\Testing\GitHub\dotnet-docker\samples\aspnetapp\aspnetapp\obj\Debug\net6.0\aspnetapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Testing\GitHub\dotnet-docker\samples\aspnetapp\aspnetapp\obj\Debug\net6.0\aspnetapp.RazorAssemblyInfo.cache
+C:\Testing\GitHub\dotnet-docker\samples\aspnetapp\aspnetapp\obj\Debug\net6.0\aspnetapp.RazorAssemblyInfo.cs
